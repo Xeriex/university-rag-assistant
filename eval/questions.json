@@ -1,0 +1,14 @@
+[
+  {"q": "Why does chunk size matter for semantic search?", "file": "sentence_embeddings.pdf", "page": 3},
+  {"q": "How many dimensions do MiniLM embeddings have?", "file": "sentence_embeddings.pdf", "page": 2},
+  {"q": "How does Sentence-BERT map sentences to vectors?", "file": "sentence_embeddings.pdf", "page": 1},
+  {"q": "What does a vector database store alongside embeddings?", "file": "sentence_embeddings.pdf", "page": 3},
+  {"q": "Does RAG guarantee correct answers?", "file": "rag_overview.pdf", "page": 2},
+  {"q": "How can RAG answers be updated without retraining?", "file": "rag_overview.pdf", "page": 2},
+  {"q": "Who introduced RAG and in what year?", "file": "rag_overview.pdf", "page": 1},
+  {"q": "What should be measured when evaluating RAG systems?", "file": "rag_overview.pdf", "page": 3},
+  {"q": "What is cosine similarity used for here?", "file": "sentence_embeddings.pdf", "page": 1},
+  {"q": "What is the capital of France?", "file": null, "page": null},
+  {"q": "What is the recipe for chocolate cake?", "file": null, "page": null},
+  {"q": "Who won the 2018 football World Cup?", "file": null, "page": null}
+]
